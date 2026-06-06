@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-06 16:04:22" Modified_Date="2026-06-03 22:57:51" Creator="Thomas" Comments="" ID="e97a54bc0e71b331282e86320ea15d0b">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-06 16:04:22" Modified_Date="2026-06-06 21:04:36" Creator="Thomas" Comments="" ID="5bf9ab528b201547ead919befb1a1483">
   <Library_General_Settings>
     <Package_File_Name>Saukko_lib_LV_SDL3</Package_File_Name>
-    <Library_Version>1.0.0.10</Library_Version>
+    <Library_Version>1.0.0.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\Builds</Library_Output_Folder>
@@ -229,7 +229,7 @@
         <Path>SDL3\Init</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4932C0A2443C198E809F0879B73F4503</GUID>
+      <GUID>125483A2BE2F6E2C7E3F2C93F29A3B8B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -264,7 +264,7 @@
         <Path>SDL3\Init\Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>00CC181B2F494DD3A0D5AB3F1958ABB2</GUID>
+      <GUID>1748CF6F2694436A5C6745DDFFA6D9D0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
